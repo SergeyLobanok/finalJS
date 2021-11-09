@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background:rgb(39, 255, 255);
+}
+.box{
+    width: 300px;
+    padding:40px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background:white ;
+    margin: 0 auto;
+    text-align: center;
+    input{
+        border-color: rgb(104, 217, 236);
+        margin: 20px auto;
+        display: block;
+        padding: 14px 10px;
+        width: 200px;
+    }
+    .btn{
+        background-color:rgb(39, 255, 255);
+    }
+}
