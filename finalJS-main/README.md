@@ -1,2 +1,2 @@
-# finalJS
-myFinalProjsecJs
+# JSproject
+JS project
